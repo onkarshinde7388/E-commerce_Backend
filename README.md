@@ -3,7 +3,7 @@
 A RESTful backend service to manage Products, Categories, and Cart operations.
 
 ## 🚀 Hosted API
-Base URL: `https://ecommerce-backend.onrender.com`
+Base URL: `https://e-commerce-backend-1-zc03.onrender.com`
 
 ## 📦 Tech Stack
 - Node.js + Express
